@@ -11,9 +11,6 @@ The primary goal is to replace a manual copy-and-paste process with an efficient
 ## Workflow Architecture
 
 The following diagram provides a high-level overview of the automation's node-based architecture.
-## Workflow Architecture
-
-The following diagram provides a high-level overview of the automation's node-based architecture.
 
 ![Xero Invoice Workflow](https://raw.githubusercontent.com/Muneeb20019/Automated-HTML-Document-Generation-from-Xero-API-using-n8n/main/Xero%20Invoice.jpeg)
 
