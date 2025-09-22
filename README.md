@@ -12,7 +12,6 @@ The primary goal is to replace a manual copy-and-paste process with an efficient
 
 The following diagram provides a high-level overview of the automation's node-based architecture.
 
-![n8n Catering Form Workflow](https://github.com/Muneeb20019/Automated-HTML-Document-Generation-from-Xero-API-using-n8n/blob/main/workflow-screenshot.png?raw=true)
 
 ---
 
