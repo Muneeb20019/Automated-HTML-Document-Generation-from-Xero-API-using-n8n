@@ -1,4 +1,4 @@
-# Automated HTML Document Generation from Xero API Data using n8n
+# Automated HTML Document Generation from Xero Software API using n8n
 
 An automated workflow built in n8n that integrates data from the Xero API, uses a Large Language Model (LLM) for intelligent structuring, and generates styled HTML documents for storage in Google Drive.
 
