@@ -47,3 +47,8 @@ The workflow operates in a clear, step-by-step sequence:
 *   **Data Structuring:** Working with and converting data formats (JSON, Markdown, HTML).
 *   **Code & Expressions:** Using JavaScript and RegEx for precise data manipulation.
 *   **Workflow Automation:** Designing and building end-to-end automated processes.
+---
+## Author
+
+- [Muneeb Ali Khan] (https://www.linkedin.com/in/muneeb-ali-khan-2a1675365)
+   
